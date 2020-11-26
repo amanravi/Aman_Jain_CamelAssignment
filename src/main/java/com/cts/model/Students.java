@@ -1,4 +1,4 @@
-package com.cts.controller.model;
+package com.cts.model;
 
 import java.io.Serializable;
 

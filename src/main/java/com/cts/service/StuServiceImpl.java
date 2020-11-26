@@ -12,7 +12,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.cts.controller.model.Students;
+import com.cts.model.Students;
 @Service
 public class StuServiceImpl extends RouteBuilder {
 
